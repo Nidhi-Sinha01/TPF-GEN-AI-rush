@@ -21,4 +21,9 @@ Key Features:
 
 8. Seamless Reimbursements: Employees can easily submit expenses through the digital wallet, and employers can swiftly process and reimburse approved expenses directly to vendors, streamlining the reimbursement process.
 
+
+9. APP PREVIEW
+    https://e-rupi-digital-wallet.framer.ai/
+https://app.uizard.io/p/0eacb355
+
 Our digital wallet solution not only simplifies financial transactions but also fosters a secure and convenient ecosystem for employer-sponsored interactions. By leveraging the strengths of e-Rupi and focusing on specific user needs, our idea aims to revolutionize the way employer-sponsored transactions are conducted, benefiting both employees and vendors alike.
